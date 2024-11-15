@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LAB2-PC01\\Desktop\\proyecto_progra\\proyecto_progra\\proyecto_progra.csproj": {}
+    "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\proyecto_progra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LAB2-PC01\\Desktop\\proyecto_progra\\proyecto_progra\\proyecto_progra.csproj": {
+    "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\proyecto_progra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LAB2-PC01\\Desktop\\proyecto_progra\\proyecto_progra\\proyecto_progra.csproj",
+        "projectUniqueName": "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\proyecto_progra.csproj",
         "projectName": "proyecto_progra",
-        "projectPath": "C:\\Users\\LAB2-PC01\\Desktop\\proyecto_progra\\proyecto_progra\\proyecto_progra.csproj",
-        "packagesPath": "C:\\Users\\LAB2-PC01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LAB2-PC01\\Desktop\\proyecto_progra\\proyecto_progra\\obj\\",
+        "projectPath": "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\proyecto_progra.csproj",
+        "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\LAB2-PC01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\emanu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

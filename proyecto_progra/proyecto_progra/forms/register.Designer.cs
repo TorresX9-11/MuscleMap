@@ -30,6 +30,10 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(register));
             TitleBar = new Panel();
+            pictureBox8 = new PictureBox();
+            pictureBox7 = new PictureBox();
+            pictureBox6 = new PictureBox();
+            pictureBox5 = new PictureBox();
             pictureBox4 = new PictureBox();
             pictureBox1 = new PictureBox();
             pictureBox2 = new PictureBox();
@@ -42,11 +46,11 @@
             btnMin = new PictureBox();
             btnMax = new PictureBox();
             btnClose = new PictureBox();
-            pictureBox5 = new PictureBox();
-            pictureBox6 = new PictureBox();
-            pictureBox7 = new PictureBox();
-            pictureBox8 = new PictureBox();
             TitleBar.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox8).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox7).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox6).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox5).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
@@ -59,10 +63,6 @@
             ((System.ComponentModel.ISupportInitialize)btnMin).BeginInit();
             ((System.ComponentModel.ISupportInitialize)btnMax).BeginInit();
             ((System.ComponentModel.ISupportInitialize)btnClose).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox5).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox6).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox7).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox8).BeginInit();
             SuspendLayout();
             // 
             // TitleBar
@@ -86,161 +86,183 @@
             TitleBar.Controls.Add(btnClose);
             TitleBar.Dock = DockStyle.Top;
             TitleBar.Location = new Point(0, 0);
+            TitleBar.Margin = new Padding(3, 4, 3, 4);
             TitleBar.Name = "TitleBar";
-            TitleBar.Size = new Size(800, 35);
+            TitleBar.Size = new Size(914, 47);
             TitleBar.TabIndex = 1;
+            // 
+            // pictureBox8
+            // 
+            pictureBox8.Image = (Image)resources.GetObject("pictureBox8.Image");
+            pictureBox8.Location = new Point(726, 5);
+            pictureBox8.Margin = new Padding(3, 4, 3, 4);
+            pictureBox8.Name = "pictureBox8";
+            pictureBox8.Size = new Size(40, 41);
+            pictureBox8.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox8.TabIndex = 15;
+            pictureBox8.TabStop = false;
+            // 
+            // pictureBox7
+            // 
+            pictureBox7.Image = (Image)resources.GetObject("pictureBox7.Image");
+            pictureBox7.Location = new Point(773, 5);
+            pictureBox7.Margin = new Padding(3, 4, 3, 4);
+            pictureBox7.Name = "pictureBox7";
+            pictureBox7.Size = new Size(40, 41);
+            pictureBox7.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox7.TabIndex = 14;
+            pictureBox7.TabStop = false;
+            // 
+            // pictureBox6
+            // 
+            pictureBox6.Image = (Image)resources.GetObject("pictureBox6.Image");
+            pictureBox6.Location = new Point(819, 4);
+            pictureBox6.Margin = new Padding(3, 4, 3, 4);
+            pictureBox6.Name = "pictureBox6";
+            pictureBox6.Size = new Size(40, 41);
+            pictureBox6.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox6.TabIndex = 13;
+            pictureBox6.TabStop = false;
+            // 
+            // pictureBox5
+            // 
+            pictureBox5.Image = (Image)resources.GetObject("pictureBox5.Image");
+            pictureBox5.Location = new Point(866, 4);
+            pictureBox5.Margin = new Padding(3, 4, 3, 4);
+            pictureBox5.Name = "pictureBox5";
+            pictureBox5.Size = new Size(40, 41);
+            pictureBox5.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox5.TabIndex = 12;
+            pictureBox5.TabStop = false;
             // 
             // pictureBox4
             // 
             pictureBox4.Location = new Point(0, 0);
+            pictureBox4.Margin = new Padding(3, 4, 3, 4);
             pictureBox4.Name = "pictureBox4";
-            pictureBox4.Size = new Size(100, 50);
+            pictureBox4.Size = new Size(114, 67);
             pictureBox4.TabIndex = 0;
             pictureBox4.TabStop = false;
             // 
             // pictureBox1
             // 
             pictureBox1.Location = new Point(0, 0);
+            pictureBox1.Margin = new Padding(3, 4, 3, 4);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(100, 50);
+            pictureBox1.Size = new Size(114, 67);
             pictureBox1.TabIndex = 1;
             pictureBox1.TabStop = false;
             // 
             // pictureBox2
             // 
             pictureBox2.Location = new Point(0, 0);
+            pictureBox2.Margin = new Padding(3, 4, 3, 4);
             pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(100, 50);
+            pictureBox2.Size = new Size(114, 67);
             pictureBox2.TabIndex = 2;
             pictureBox2.TabStop = false;
             // 
             // pictureBox3
             // 
             pictureBox3.Location = new Point(0, 0);
+            pictureBox3.Margin = new Padding(3, 4, 3, 4);
             pictureBox3.Name = "pictureBox3";
-            pictureBox3.Size = new Size(100, 50);
+            pictureBox3.Size = new Size(114, 67);
             pictureBox3.TabIndex = 3;
             pictureBox3.TabStop = false;
             // 
             // btnRestR
             // 
             btnRestR.Location = new Point(0, 0);
+            btnRestR.Margin = new Padding(3, 4, 3, 4);
             btnRestR.Name = "btnRestR";
-            btnRestR.Size = new Size(100, 50);
+            btnRestR.Size = new Size(114, 67);
             btnRestR.TabIndex = 4;
             btnRestR.TabStop = false;
             // 
             // btnMinR
             // 
             btnMinR.Location = new Point(0, 0);
+            btnMinR.Margin = new Padding(3, 4, 3, 4);
             btnMinR.Name = "btnMinR";
-            btnMinR.Size = new Size(100, 50);
+            btnMinR.Size = new Size(114, 67);
             btnMinR.TabIndex = 5;
             btnMinR.TabStop = false;
             // 
             // btnMaxR
             // 
             btnMaxR.Location = new Point(0, 0);
+            btnMaxR.Margin = new Padding(3, 4, 3, 4);
             btnMaxR.Name = "btnMaxR";
-            btnMaxR.Size = new Size(100, 50);
+            btnMaxR.Size = new Size(114, 67);
             btnMaxR.TabIndex = 6;
             btnMaxR.TabStop = false;
             // 
             // btnCerrar
             // 
             btnCerrar.Location = new Point(0, 0);
+            btnCerrar.Margin = new Padding(3, 4, 3, 4);
             btnCerrar.Name = "btnCerrar";
-            btnCerrar.Size = new Size(100, 50);
+            btnCerrar.Size = new Size(114, 67);
             btnCerrar.TabIndex = 7;
             btnCerrar.TabStop = false;
             // 
             // btnRest
             // 
             btnRest.Location = new Point(0, 0);
+            btnRest.Margin = new Padding(3, 4, 3, 4);
             btnRest.Name = "btnRest";
-            btnRest.Size = new Size(100, 50);
+            btnRest.Size = new Size(114, 67);
             btnRest.TabIndex = 8;
             btnRest.TabStop = false;
             // 
             // btnMin
             // 
             btnMin.Location = new Point(0, 0);
+            btnMin.Margin = new Padding(3, 4, 3, 4);
             btnMin.Name = "btnMin";
-            btnMin.Size = new Size(100, 50);
+            btnMin.Size = new Size(114, 67);
             btnMin.TabIndex = 9;
             btnMin.TabStop = false;
             // 
             // btnMax
             // 
             btnMax.Location = new Point(0, 0);
+            btnMax.Margin = new Padding(3, 4, 3, 4);
             btnMax.Name = "btnMax";
-            btnMax.Size = new Size(100, 50);
+            btnMax.Size = new Size(114, 67);
             btnMax.TabIndex = 10;
             btnMax.TabStop = false;
             // 
             // btnClose
             // 
             btnClose.Location = new Point(0, 0);
+            btnClose.Margin = new Padding(3, 4, 3, 4);
             btnClose.Name = "btnClose";
-            btnClose.Size = new Size(100, 50);
+            btnClose.Size = new Size(114, 67);
             btnClose.TabIndex = 11;
             btnClose.TabStop = false;
             // 
-            // pictureBox5
-            // 
-            pictureBox5.Image = (Image)resources.GetObject("pictureBox5.Image");
-            pictureBox5.Location = new Point(758, 3);
-            pictureBox5.Name = "pictureBox5";
-            pictureBox5.Size = new Size(35, 31);
-            pictureBox5.SizeMode = PictureBoxSizeMode.Zoom;
-            pictureBox5.TabIndex = 12;
-            pictureBox5.TabStop = false;
-            // 
-            // pictureBox6
-            // 
-            pictureBox6.Image = (Image)resources.GetObject("pictureBox6.Image");
-            pictureBox6.Location = new Point(717, 3);
-            pictureBox6.Name = "pictureBox6";
-            pictureBox6.Size = new Size(35, 31);
-            pictureBox6.SizeMode = PictureBoxSizeMode.Zoom;
-            pictureBox6.TabIndex = 13;
-            pictureBox6.TabStop = false;
-            // 
-            // pictureBox7
-            // 
-            pictureBox7.Image = (Image)resources.GetObject("pictureBox7.Image");
-            pictureBox7.Location = new Point(676, 4);
-            pictureBox7.Name = "pictureBox7";
-            pictureBox7.Size = new Size(35, 31);
-            pictureBox7.SizeMode = PictureBoxSizeMode.Zoom;
-            pictureBox7.TabIndex = 14;
-            pictureBox7.TabStop = false;
-            // 
-            // pictureBox8
-            // 
-            pictureBox8.Image = (Image)resources.GetObject("pictureBox8.Image");
-            pictureBox8.Location = new Point(635, 4);
-            pictureBox8.Name = "pictureBox8";
-            pictureBox8.Size = new Size(35, 31);
-            pictureBox8.SizeMode = PictureBoxSizeMode.Zoom;
-            pictureBox8.TabIndex = 15;
-            pictureBox8.TabStop = false;
-            // 
             // register
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
             ControlBox = false;
             Controls.Add(TitleBar);
             Enabled = false;
             FormBorderStyle = FormBorderStyle.None;
+            Margin = new Padding(3, 4, 3, 4);
             MaximizeBox = false;
             MdiChildrenMinimizedAnchorBottom = false;
             MinimizeBox = false;
             Name = "register";
             ShowIcon = false;
             TitleBar.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)pictureBox8).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox7).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox6).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox5).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox4).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
@@ -253,10 +275,6 @@
             ((System.ComponentModel.ISupportInitialize)btnMin).EndInit();
             ((System.ComponentModel.ISupportInitialize)btnMax).EndInit();
             ((System.ComponentModel.ISupportInitialize)btnClose).EndInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox5).EndInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox6).EndInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox7).EndInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox8).EndInit();
             ResumeLayout(false);
         }
 

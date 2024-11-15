@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F85CCE57-EA96-459F-BDAF-B4DDF60F30F4}|proyecto_progra\\proyecto_progra.csproj|c:\\users\\emanu\\onedrive\\documentos\\github\\musclemap\\proyecto_progra\\proyecto_progra\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F85CCE57-EA96-459F-BDAF-B4DDF60F30F4}|proyecto_progra\\proyecto_progra.csproj|solutionrelative:proyecto_progra\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85CCE57-EA96-459F-BDAF-B4DDF60F30F4}|proyecto_progra\\proyecto_progra.csproj|c:\\users\\emanu\\onedrive\\documentos\\github\\musclemap\\proyecto_progra\\proyecto_progra\\proyecto_progra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F85CCE57-EA96-459F-BDAF-B4DDF60F30F4}|proyecto_progra\\proyecto_progra.csproj|solutionrelative:proyecto_progra\\proyecto_progra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85CCE57-EA96-459F-BDAF-B4DDF60F30F4}|proyecto_progra\\proyecto_progra.csproj|C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\forms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F85CCE57-EA96-459F-BDAF-B4DDF60F30F4}|proyecto_progra\\proyecto_progra.csproj|solutionrelative:proyecto_progra\\forms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85CCE57-EA96-459F-BDAF-B4DDF60F30F4}|proyecto_progra\\proyecto_progra.csproj|c:\\users\\emanu\\onedrive\\documentos\\github\\musclemap\\proyecto_progra\\proyecto_progra\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85CCE57-EA96-459F-BDAF-B4DDF60F30F4}|proyecto_progra\\proyecto_progra.csproj|solutionrelative:proyecto_progra\\forms\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85CCE57-EA96-459F-BDAF-B4DDF60F30F4}|proyecto_progra\\proyecto_progra.csproj|C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\forms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F85CCE57-EA96-459F-BDAF-B4DDF60F30F4}|proyecto_progra\\proyecto_progra.csproj|solutionrelative:proyecto_progra\\forms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85CCE57-EA96-459F-BDAF-B4DDF60F30F4}|proyecto_progra\\proyecto_progra.csproj|c:\\users\\emanu\\onedrive\\documentos\\github\\musclemap\\proyecto_progra\\proyecto_progra\\forms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85CCE57-EA96-459F-BDAF-B4DDF60F30F4}|proyecto_progra\\proyecto_progra.csproj|solutionrelative:proyecto_progra\\forms\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\forms\\login.cs",
+              "RelativeDocumentMoniker": "proyecto_progra\\forms\\login.cs",
+              "ToolTip": "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\forms\\login.cs",
+              "RelativeToolTip": "proyecto_progra\\forms\\login.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:37:53.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "register.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\forms\\register.cs",
+              "RelativeDocumentMoniker": "proyecto_progra\\forms\\register.cs",
+              "ToolTip": "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\forms\\register.cs",
+              "RelativeToolTip": "proyecto_progra\\forms\\register.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:31:41.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "register.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\forms\\register.cs",
+              "RelativeDocumentMoniker": "proyecto_progra\\forms\\register.cs",
+              "ToolTip": "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\forms\\register.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto_progra\\forms\\register.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:20:17.02Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\forms\\login.cs",
+              "RelativeDocumentMoniker": "proyecto_progra\\forms\\login.cs",
+              "ToolTip": "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\forms\\login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto_progra\\forms\\login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:20:14.278Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\forms\\home.cs",
+              "RelativeDocumentMoniker": "proyecto_progra\\forms\\home.cs",
+              "ToolTip": "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\forms\\home.cs [Dise\u00F1o]",
+              "RelativeToolTip": "proyecto_progra\\forms\\home.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:59:20.877Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "proyecto_progra.csproj",
+              "DocumentMoniker": "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\proyecto_progra.csproj",
+              "RelativeDocumentMoniker": "proyecto_progra\\proyecto_progra.csproj",
+              "ToolTip": "C:\\Users\\emanu\\OneDrive\\Documentos\\GitHub\\MuscleMap\\proyecto_progra\\proyecto_progra\\proyecto_progra.csproj",
+              "RelativeToolTip": "proyecto_progra\\proyecto_progra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T11:58:58.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
